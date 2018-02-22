@@ -31,3 +31,4 @@
 * [BountySource](https://www.bountysource.com/) (centralized)
 * [Bounty0x](https://bounty0x.io/) | [GitHub](https://github.com/bounty0x)
 * @tbone | [GitHub: Scythereum](https://github.com/originaltbs/Scythereum)
+* [Status.im Open Bounty](https://openbounty.status.im/) | [GitHub](https://github.com/status-im/open-bounty)
